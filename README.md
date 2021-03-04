@@ -1,17 +1,17 @@
 # Eye-blink-detection
 This is a ml project which differentiates fake videos and original videos by detecting eye blinking of a person in the video.
 ## Requirements
-### Numpy : 
+* Numpy : 
 ``` pip install numpy ```
-### Pandas : 
+* Pandas : 
 ```pip install pandas```
-### CV2
+* CV2 :
 ``` pip install cv2 ```
-### Cmake
+* Cmake : 
 ``` pip install cmake ```
-### Dlib
+* Dlib : 
 ``` pip install dlib ```
-### Scipy
+* Scipy : 
 ``` pip install scipy ```
-### OS
+* OS 
 
