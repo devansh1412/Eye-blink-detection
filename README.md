@@ -5,14 +5,16 @@ This is a ml project which differentiates fake videos and original videos by det
 ``` pip install numpy ```
 * Pandas : 
 ```pip install pandas```
-* CV2 :
-``` pip install cv2 ```
+* OpenCV :
+```sudo apt install python3-opencv```
+* Libboost : 
+```sudo apt-get install libboost-all-dev```
 * Cmake : 
-``` pip install cmake ```
+```sudo apt-get install cmake```
 * Dlib : 
-``` pip install dlib ```
+```sudo pip3 install dlib```
 * Scipy : 
-``` pip install scipy ```
+```pip install scipy```
 * OS 
 
 ## Reference
