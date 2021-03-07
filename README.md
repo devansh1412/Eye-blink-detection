@@ -15,7 +15,6 @@ This is a ml project which differentiates fake videos and original videos by det
 ```sudo pip3 install dlib```
 * Scipy : 
 ```pip install scipy```
-* OS 
 
 ## Reference
 * [Document Refer](https://arxiv.org/pdf/1806.02877.pdf)
