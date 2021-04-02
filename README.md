@@ -1,5 +1,5 @@
 # Eye-blink-detection
-This is a ml project which differentiates fake videos and original videos by detecting eye blinking of a person in the video. You just have to download the code and run the Notebook.ipynb in the folder Eye-detect-from-frame folder. Use the predict function in the file Notebook.ipynb for predicting whether a video is real or fake.
+This is a machine learning project which differentiates fake videos and original videos by detecting eye blinking of a person in the video. You just have to download the code and run the Notebook.ipynb in the folder Eye-detect-from-frame folder. Use the predict function in the file Notebook.ipynb for predicting whether a video is real or fake.
 ## Requirements
 * Numpy : 
 ``` pip install numpy ```
